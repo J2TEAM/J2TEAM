@@ -5,6 +5,7 @@ I'm [JUNO_OKYO](https://www.facebook.com/junookyo.vn). I'm the leader at [J2TEAM
 You can follow me on: [Facebook](https://www.facebook.com/J2TEAM.ManhTuan/) – [Twitter](https://twitter.com/juno_okyo) – [Instagram](https://www.instagram.com/junookyo) – [Youtube](https://www.youtube.com/channel/UCAwAe6QpxefpEb1R_S5EiOQ) – [Blog](https://www.junookyo.com/)
 
 ### Latest projects:
-- [shopee.j2team.dev](https://shopee.j2team.dev/) - Shopee Coupons - Mã giảm giá Shopee
+- [j2team.org](https://j2team.org/) - J2TEAM Security Premium
+- [giamgia.to](https://giamgia.to/) - Giảm Giá To - Mã giảm giá Shopee
 - [j2team.dev/fshare-code](https://j2team.dev/fshare-code) - Free Fshare Code - Fcode miễn phí
 - [j2team.dev/links](https://j2team.dev/links) - URL Shortener - Rút gọn liên kết
