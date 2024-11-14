@@ -7,6 +7,7 @@ When I'm not coding, you can find me sharing my knowledge and insights on social
 If you're interested in following my journey as a developer, be sure to give me a follow on all these platforms!
 
 ### Latest projects:
+- [store.j2team.org](https://store.j2team.org/) - J2TEAM - Text to Speech (phần mềm chuyển văn bản thành giọng nói)
 - [j2team.org](https://j2team.org/) - J2TEAM Security Premium
 - [j2team.dev/fshare-code](https://j2team.dev/fshare-code) - Free Fshare Code - Fcode miễn phí
 - [j2team.dev/links](https://j2team.dev/links) - URL Shortener - Rút gọn liên kết
